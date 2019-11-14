@@ -36,4 +36,5 @@ input()
 print("I've got a great idea for a NBA themed Fast Food restaurant. I call it...")
 input()
 print("Shake-Shaq")
+input()
 
