@@ -78,17 +78,17 @@ print("Shake-Shaq")
 input()
 ###########################################################
 #################################################################################Minor Code (Attempted Split Attempted)#############
-str1 = 'This string'
-if 'is' in str1:
-    print (str1)
+strgs = 'i love golden State'
+if 'love' in strgs:
+    print (strgs)
 
     
-str2 = 'This is a string'
-if 'is' in str2:
-    print (str2)
+strgz= 'I hate golden State'
+if 'state' in strgz:
+    print (strgz)
 
-if 'is' in str1.split():
-    print(str1)
+if 'golden' in strgs.split():
+    print(strgs)
 
-if 'is' in str2.split():
-    print(str2)
+if 'hate' in strgn.split():
+    print(str2gn)
